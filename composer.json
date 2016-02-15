@@ -1,0 +1,8 @@
+{
+    "name": "cubeddu/webflow-to-drupal8",
+    "autoload": {
+        "psr-0" : {
+            "WebflowToDrupal\\Generator" : "src"
+        }
+    }
+}
