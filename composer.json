@@ -4,5 +4,8 @@
         "psr-0" : {
             "WebflowToDrupal\\Generator" : "src"
         }
+    },
+    "scripts": {
+      "generate-drupal": "WebflowToDrupal\\Generator::sayHallo"
     }
 }
