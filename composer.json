@@ -26,8 +26,7 @@
         "symfony/dom-crawler": "2.7.*",
         "alchemy/zippy": "0.2.*@dev",
         "phpseclib/phpseclib": "2.*",
-        "stecman/symfony-console-completion": "^0.5.1",
-        "padraic/phar-updater": "~1.0@dev"
+        "stecman/symfony-console-completion": "^0.5.1"
     },
     "autoload": {
         "psr-4": {"WebflowToDrupal\\Generator": "src"}
