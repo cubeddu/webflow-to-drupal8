@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {"WebflowToDrupal\\Generator\\": "src"}
-    }
+    },
     "scripts": {
         "webflow-create": "WebflowToDrupal\\Generator\\generator::create",
     }
