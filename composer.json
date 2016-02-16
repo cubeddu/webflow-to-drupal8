@@ -27,6 +27,6 @@
         "stecman/symfony-console-completion": "^0.5.1"
     },
     "autoload": {
-        "psr-4": {"WebflowToDrupal\\Generator": "src"}
+        "psr-4": {"WebflowToDrupal\\Generator\\": "src"}
     }
 }
